@@ -1,4 +1,4 @@
-# Power_BI_Report_Generator_Bot
+# Power-BI-Report-Generator-Bot
 
 Power BI Report Generator Bot is a Python-based automation tool that streamlines the generation of Power BI reports by dynamically binding .pbit (Power BI template) files with user-provided CSV data sources. It significantly reduces manual effort in repetitive report creation, making it ideal for scenarios where multiple datasets need to be visualized using a consistent report structure.
 
